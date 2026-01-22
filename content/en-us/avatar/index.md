@@ -1,6 +1,6 @@
 ---
-title: Create avatar items
-description: Create and upload avatar characters, clothing, and accessories to the Roblox Marketplace.
+title: obito uchiha
+description: uh i like obito
 
 hideInPageNavigation: true
 ---
